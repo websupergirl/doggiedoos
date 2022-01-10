@@ -1,0 +1,14 @@
+.App {
+  margin: 0 auto;
+  width: 80%;
+}
+.navbar {
+  margin-bottom: 30px;
+}
+table,
+th,
+td {
+  text-align: center;
+}
+.float-start { padding-right: 18px; }
+.float-end { padding-left: 18px; }
