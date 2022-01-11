@@ -7,7 +7,7 @@ export default function PetWasteRemoval() {
   return (
     <>
       <h1>Pet Waste Removal Services</h1>
-      <Link to="/book-service">s
+      <Link to="/book-service">
         <img src={booknow} alt="Book Service Now" className="float-end" />
       </Link>
       <p>
