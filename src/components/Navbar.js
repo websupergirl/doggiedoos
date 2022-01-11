@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Navbar, Nav, NavDropdown } from "react-bootstrap";
 
-const DdadMenu = () => {
+export default function DdadMenu() {
   return (
     <>
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
@@ -65,6 +65,4 @@ const DdadMenu = () => {
       </Navbar>
     </>
   );
-};
-
-export default DdadMenu;
+}
