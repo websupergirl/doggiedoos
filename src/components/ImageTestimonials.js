@@ -32,7 +32,9 @@ export default function ImageTestimonials() {
             className="img-fluid"
           />
           <p>
-            &quot;They keep my kitty good company when I'm out of town and I always know she will be excellently cared for.&quot; <em>&mdash; Rhonda</em>
+            &quot;They keep my kitty good company when I'm out of town and I
+            always know she will be excellently cared for.&quot;{" "}
+            <em>&mdash; Rhonda</em>
           </p>
         </div>
         <div>
@@ -42,7 +44,12 @@ export default function ImageTestimonials() {
             className="img-fluid"
           />
           <p>
-            &quot;We are from North Carolina and came to Oregon for an extended two-month vacation. The backyard of our Air BnB rental house began to stink fast, thanks to our two labs. Doggie Doos and Don'ts was happy to accomodate our situation with weekly poop scooping until we left. We can't thank them enough for being so friendly and accommodating.&quot; <em>&mdash; Richard &amp; Beverly</em>
+            &quot;We are from North Carolina and came to Oregon for an extended
+            two-month vacation. The backyard of our Air BnB rental house began
+            to stink fast, thanks to our two labs. Doggie Doos and Don'ts was
+            happy to accomodate our situation with weekly poop scooping until we
+            left. We can't thank them enough for being so friendly and
+            accommodating.&quot; <em>&mdash; Richard &amp; Beverly</em>
           </p>
         </div>
       </Stack>

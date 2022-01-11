@@ -25,7 +25,7 @@ import Specials from "../pages/Specials";
 import ContactUs from "../pages/ContactUs";
 import PayBill from "../pages/PayBill";
 
-const DdadRoutes = () => {
+export default function DdadRoutes() {
   return (
     <>
       <Routes>
@@ -51,6 +51,4 @@ const DdadRoutes = () => {
       </Routes>
     </>
   );
-};
-
-export default DdadRoutes;
+}
