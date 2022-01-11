@@ -1,14 +1,11 @@
 import React from "react";
 import didyouknow from "../media/did-you-know.2296a233.png";
-import booknow from "../media/book-service-now-button-turd-3.6fee38c0.png";
-import { Link } from "react-router-dom";
+import BookServiceButton from "../components/BookServiceButton.js";
 
 export default function ScoopForHealth() {
   return (
     <>
-      <Link to="/book-service">
-        <img src={booknow} alt="Book Service Now" className="float-start" />
-      </Link>
+      <BookServiceButton alignment="left" />
       <p>
         People may not be aware of how important it is to scoop dog poop from
         areas around your house you share with your pet. In addition to just

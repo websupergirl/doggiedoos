@@ -1,6 +1,6 @@
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
 import DdadMenu from "./components/Navbar.js";
 import DdadRoutes from "./components/Routes.js";
 import DdadFooter from "./components/Footer.js";

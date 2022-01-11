@@ -31,7 +31,7 @@ export default function Media() {
         of your day. But you've got to take care of the &quot;doo&quot; somehow,
         right? Rachel Azzato thinks there's a business in helping folks clean up
         after their dogs. &quot;Our motto is we pick up the doo so you don't
-        have to,&quot; she said. Azzato and her team at Doggy Do's and Dont's
+        have to,&quot; she said. Azzato and her team at Doggy Doos and Don'ts
         will come to your house and do it for you for as little as $10 a week.
         Azzato said she got the idea after she became a certified dog trainer.
         &quot;Everybody's least favorite thing to do is pick up the doo,&quot;

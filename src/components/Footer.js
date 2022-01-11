@@ -1,14 +1,13 @@
 import React from "react";
 import { Container, Row, Col, Stack } from "react-bootstrap";
+import BookServiceButton from "../components/BookServiceButton.js";
 import petsitters from "../media/Pet-Sitters-Associates-LLC-Logo-3.0da7e4b9.jpg";
 import apaws from "../media/aPaws-logo.70926d43.png";
-import booknow from "../media/book-service-now-button-turd-3.6fee38c0.png";
 import {
   FaFacebookSquare,
   FaTwitterSquare,
   FaInstagramSquare,
 } from "react-icons/fa";
-import { Link } from "react-router-dom";
 
 const DdadFooter = () => {
   return (
@@ -59,13 +58,7 @@ const DdadFooter = () => {
               </Stack>
             </Col>
             <Col>
-              <Link to="/book-service">
-                <img
-                  src={booknow}
-                  alt="Book Service Now"
-                  className="img-fluid"
-                />
-              </Link>
+              <BookServiceButton />
             </Col>
           </Row>
         </Container>

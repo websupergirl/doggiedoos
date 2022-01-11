@@ -1,14 +1,12 @@
 import React from "react";
 import WasteRemovalTable from "../components/WasteTable.js";
-import booknow from "../media/book-service-now-button-turd-3.6fee38c0.png";
+import BookServiceButton from "../components/BookServiceButton.js";
 import { Link } from "react-router-dom";
 
 export default function PetWasteRemoval() {
   return (
     <>
-      <Link to="/book-service">
-        <img src={booknow} alt="Book Service Now" className="float-end" />
-      </Link>
+      <BookServiceButton alignment="right" />
       <h1>Pet Waste Removal Services</h1>
       <p>
         You’ve come to the right place, if you’re on the hunt for some licensed,

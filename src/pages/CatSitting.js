@@ -5,7 +5,7 @@ import catdress from "../media/cat-in-a-dress.9a5754bb.jpg";
 export default function CatSitting() {
   return (
     <>
-      <img src={catdress} alt="Cat Sitting" className="img-fluid float-end" />
+      <img src={catdress} alt="Cat Sitting" className="float-end" />
       <h1>Cat-Sitting Services</h1>
       <p>
         Going out of town and need someone to check in on your furchildren while

@@ -10,5 +10,20 @@ th,
 td {
   text-align: center;
 }
-.float-start { padding-right: 18px; }
-.float-end { padding-left: 18px; }
+.float-start {
+  padding-right: 18px;
+}
+.float-end {
+  padding-left: 18px;
+}
+
+@media (max-width: 768px) {
+  .float-start,
+  .float-end {
+    display: none !important;
+  }
+}
+
+.book-img {
+  display: inline-block !important;
+}
