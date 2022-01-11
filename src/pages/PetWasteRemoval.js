@@ -6,10 +6,10 @@ import { Link } from "react-router-dom";
 export default function PetWasteRemoval() {
   return (
     <>
-      <h1>Pet Waste Removal Services</h1>
       <Link to="/book-service">
         <img src={booknow} alt="Book Service Now" className="float-end" />
       </Link>
+      <h1>Pet Waste Removal Services</h1>
       <p>
         You’ve come to the right place, if you’re on the hunt for some licensed,
         bonded, and insured dog poop scooping angels. Our service area
