@@ -4,7 +4,7 @@ import boing from "../media/boing.76a65128.jpg";
 export default function Obedience() {
   return (
     <>
-      <img src={boing} alt="Nail Trim" className="float-end" />
+      <img src={boing} alt="Obedience" className="float-end" />
       <h1>Private Obedience Classes</h1>
       <p>
         Interested in private dog obedience classes &mdash; just for you and
