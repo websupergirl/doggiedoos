@@ -4,7 +4,7 @@ The site was created after the original site source files were lost by a previou
 
 The site is live at [doggiedoosanddonts.com](https://doggiedoosanddonts.com).
 
-All content on the site was provided by Rachel Azzato and the Doggie Doos and Don'ts team, and is hosted in their AWS account.
+All content on the site was provided by Rachel Azzato and the Doggie Doos and Don'ts team, and is hosted in their AWS account. You are free to borrow any of the code, but please do not steal any of the content including the wording and images. The copyright for the content, images, concepts, and service names belongs to the company.
 
 ## Getting Started with Create React App
 
