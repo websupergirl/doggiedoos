@@ -4,9 +4,9 @@ The site was created after the original site source files were lost by a previou
 
 The site is live at [doggiedoosanddonts.com](https://doggiedoosanddonts.com).
 
-All content on the site was provided by Rachel Azzato and the Doggie Doos and Don'ts team, and is hosted in their AWS account. You are free to borrow any of the code, but please do not steal any of the content including the wording and images. The copyright for the content, images, concepts, and service names belongs to the company.
+All content on the site was provided by Rachel Azzato and the Doggie Doos and Don'ts team. You are free to borrow any of the code, but please do not steal any of the content including the wording and images. The copyright for the content, images, concepts, and service names belongs to the company.
 
-The site is deployed via Netlify. The current status is:
+The site is deployed from Github to Netlify. The current status is:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e2c4afeb-9d73-4159-97cb-5c51d71da3b3/deploy-status)](https://app.netlify.com/sites/optimistic-turing-2096f0/deploys)
 
 ## Getting Started with Create React App
