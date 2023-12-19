@@ -11,11 +11,9 @@ export default function PetWasteRemoval() {
       <p>
         You’ve come to the right place, if you’re on the hunt for some licensed,
         bonded, and insured dog poop scooping angels. Our service area
-        encompasses Oregon’s entire Willamette Valley, extending from the
-        Eugene/Springfield area to Portland and all of its surrounding areas.
+        encompasses the entire Eugene/Springfield area.
         Your satisfaction is guaranteed. Check out our price list below for our
-        Eugene/Springfield service area’s pet waste removal rates. Portland area
-        rates are being re-evaluated currently. Please contact us at
+        Eugene/Springfield service area’s pet waste removal rates. Please contact us at
         info@doggiedoosanddonts.com for more information.
       </p>
       <WasteRemovalTable />
