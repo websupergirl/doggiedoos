@@ -1,6 +1,6 @@
 import React from "react";
 import Table from "react-bootstrap/Table";
-import { FaPoop, FaDog } from "react-icons/fa";
+import { FaDog } from "react-icons/fa";
 
 export default function WasteRemovalTable() {
   return (
@@ -16,25 +16,30 @@ export default function WasteRemovalTable() {
         <tr>
           <th>Dogs</th>
           <td>
-            1 <FaDog />
+            1 
+			<FaDog />
           </td>
           <td>
-            2 <FaDog />
-            <FaDog />
-          </td>
-          <td>
-            3 <FaDog />
-            <FaDog />
+            2 
+			<FaDog />
             <FaDog />
           </td>
           <td>
-            4 <FaDog />
-            <FaDog />
+            3 
+			<FaDog />
             <FaDog />
             <FaDog />
           </td>
           <td>
-            5 <FaDog />
+            4 
+			<FaDog />
+            <FaDog />
+            <FaDog />
+            <FaDog />
+          </td>
+          <td>
+            5 
+			<FaDog />
             <FaDog />
             <FaDog />
             <FaDog />
