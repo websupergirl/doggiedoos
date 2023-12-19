@@ -19,9 +19,19 @@ export default function PetCare() {
         <FaDog /> Rates for Nail Trims and Express Pet Care Services <FaDog />
       </h2>
       <ul>
-        <li>15 minute walk $20</li>
-        <li>30 minute walk $25</li>
-        <li>60 minute walk $35</li>
+        <li>Nail trim $15</li>
+        <li>Travel fee Eugene & Springfield (under 10 miles from The Laundromutt) +$15</li>
+		<li>Travel fee for remote areas (over 10 miles from The Laundromutt) +$20</li>
+        <li>Additional assistant fee $10</li>
+      </ul>
+	  <p>
+		If you live over 15 miles from The Laundromutt, we have the following minimum visit totals:
+	  </p>
+	  <ul>
+        <li>Solo $55</li>
+        <li>Team $65</li>
+		<li>Price is up to 2 pets, not prorated for only one.</li>
+        <li>Extra pets +$15 per pet</li>
       </ul>
     </>
   );

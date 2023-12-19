@@ -24,9 +24,9 @@ export default function DogWalking() {
         <FaDog /> Rates for Dog Walking <FaDog />
       </h2>
       <ul>
-        <li>15 minute walk $20</li>
-        <li>30 minute walk $25</li>
-        <li>60 minute walk $35</li>
+        <li>30 minute walk $30 for one dog</li>
+        <li>60 minute walk $40 for one dog</li>
+		<li>Each additional dog +$10</li>
       </ul>
       <div className="text-center">
         <img src={rollingdog} alt="Dog Walking" className="img-fluid" />

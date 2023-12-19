@@ -48,12 +48,6 @@ export default function Home() {
         />
       </div>
       <p>
-        After perfecting our poop scooping abilities in the local area since
-        2006, we are now extending our services beyond the Eugene/Springfield
-        area to encompass the entirety of the Willamette Valley (including
-        Portland and its surrounding communities).
-      </p>
-      <p>
         In addition to our pet waste removal services, we also offer several
         in-home pet services, including nail trims, bathing, grooming,
         pet-sitting, kitty litter clean-up and box exchange, and more. We are

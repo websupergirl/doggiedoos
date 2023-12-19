@@ -21,9 +21,10 @@ export default function DogSitting() {
         pooch.
       </p>
       <ul>
-        <li>$20 per visit for up to two dogs</li>
+        <li>$30 per visit for up to two dogs</li>
         <li>+$2 for each additional pet (dog or cat)</li>
         <li>+$1 small animal enclosure (e.g. cage, hutch, aquarium, etc.)</li>
+		<li>additional travel fee for those outside of the central metro service area</li>
       </ul>
       <h3>Medication Administration</h3>
       <p>
@@ -47,8 +48,8 @@ export default function DogSitting() {
         departure time.
       </p>
       <ul>
-        <li>$50 for up to two dogs (12-hour period)</li>
-        <li>+$5 for each additional dog</li>
+        <li>$60 for up to two dogs (12-hour period)</li>
+        <li>+$10 for each additional pet</li>
       </ul>
     </>
   );
