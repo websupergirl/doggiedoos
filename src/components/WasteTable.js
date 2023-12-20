@@ -16,25 +16,25 @@ export default function WasteRemovalTable() {
         <tr>
           <th>Dogs</th>
           <td>
-            1 <FaDog />
-          </td>
-          <td>
-            2 <FaDog />
             <FaDog />
           </td>
           <td>
-            3 <FaDog />
             <FaDog />
             <FaDog />
           </td>
           <td>
-            4 <FaDog />
             <FaDog />
             <FaDog />
             <FaDog />
           </td>
           <td>
-            5 <FaDog />
+            <FaDog />
+            <FaDog />
+            <FaDog />
+            <FaDog />
+          </td>
+          <td>
+            <FaDog />
             <FaDog />
             <FaDog />
             <FaDog />
