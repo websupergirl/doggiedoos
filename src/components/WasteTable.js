@@ -43,37 +43,37 @@ export default function WasteRemovalTable() {
         </tr>
         <tr>
           <th>Once Weekly</th>
-          <td>$16.50/visit<br />$71.50/mo</td>
-          <td>$18.50/visit<br />$80.17/mo</td>
-          <td>$20.50/visit<br />$88.83/mo</td>
-          <td>$22.50/visit<br />$97.50/mo</td>
-          <td>$24.50/visit<br />$106.17/mo</td>
+          <td>$75.00/mo</td>
+          <td>$85.00/mo</td>
+          <td>$95.00/mo</td>
+          <td>$105.00/mo</td>
+          <td>$115.00/mo</td>
         </tr>
         <tr>
           <th>Twice Weekly</th>
-          <td>$13.00/visit<br />$112.67/mo</td>
-		  <td>$14.00/visit<br />$121.33/mo</td>
-		  <td>$15.00/visit<br />$130.00/mo</td>
-		  <td>$16.00/visit<br />$138.67/mo</td>
-		  <td>$17.00/visit<br />$147.33/mo</td>
+          <td>$115.00/mo</td>
+		  <td>$125.00/mo</td>
+		  <td>$135.00/mo</td>
+		  <td>$145.00/mo</td>
+		  <td>$155.00/mo</td>
         </tr>
         <tr>
           <th>Bi-Weekly</th>
-          <td>$30.00/visit<br />$65.00/mo</td>
-		  <td>$36.00/visit<br />$78.00/mo</td>
-		  <td>$42.00/visit<br />$91.00/mo</td>
-		  <td>$48.00/visit<br />$104.00/mo</td>
-		  <td>$54.00/visit<br />$117.00/mo</td>
+          <td>$85.00/mo</td>
+		  <td>$95.00/mo</td>
+		  <td>$105.00/mo</td>
+		  <td>$115.00/mo</td>
+		  <td>$125.00/mo</td>
         </tr>
         <tr>
           <th>First Time</th>
           <td>$35 for first 30 mins</td>
-		  <td colSpan="4">each 15-minute increment after that is $10</td>
+		  <td colSpan="4">$1 per each additional minute</td>
         </tr>
         <tr>
           <th>One Time Clean Up</th>
           <td>$60 for first 30 mins</td>
-		  <td colSpan="4">each 15-minute increment after that is $10</td>
+		  <td colSpan="4">$1 per each additional minute</td>
         </tr>
         <tr>
           <td colSpan="6">
