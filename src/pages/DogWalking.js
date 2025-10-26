@@ -25,7 +25,7 @@ export default function DogWalking() {
       </h2>
       <ul>
         <li>30 minute walk $30 for one dog</li>
-        <li>60 minute walk $40 for one dog</li>
+        <li>60 minute walk $50 for one dog</li>
 		<li>Each additional dog +$10</li>
       </ul>
       <div className="text-center">
